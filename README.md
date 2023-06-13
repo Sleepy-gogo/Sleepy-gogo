@@ -5,7 +5,7 @@
     <i>
         Mainly learning Web Development!<br>
         Currently doing courses to learn how to create<br>
-        create awesome and useful apps!
+        awesome and useful apps!
     </i><br><br>
     <a href="https://www.linkedin.com/in/axel-ignacio-casta%C3%B1o-523a56276/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
