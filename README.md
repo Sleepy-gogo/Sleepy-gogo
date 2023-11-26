@@ -19,10 +19,6 @@
     <a href="https://codepen.io/Sleepy_gogo">
         <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen">
     </a><br><br>
-    <i>
-        Planning on making a Python Udemy course<br>
-        with motion graphics for explanations
-    </i><br><br>
 </p>
 
 ### Languages
