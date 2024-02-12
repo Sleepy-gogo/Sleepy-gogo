@@ -2,11 +2,10 @@
 
 <p align="center">
     <b>I'm Axel, an 18yo Self Taught developer<br>From Argentina!</b><br><br>
-    <i>
-        Mainly learning Web Development!<br>
-        Currently developing awesome projects<br>
-        to show in my portfolio
-    </i><br><br>
+    <img src="https://i.ibb.co/vcSWMcB/output-gif.gif">
+    <br>
+    <i>Generated with <a href="https://github.com/x0rzavi/github-readme-terminal">x0rzavi/github-readme-terminal</a> on Feb.12 2024</i>
+    <br><br>
     <a href="https://www.linkedin.com/in/cast-axel/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
