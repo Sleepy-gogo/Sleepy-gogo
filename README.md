@@ -1,7 +1,7 @@
 <h1 align="center">Heya! <img src="https://github.com/Sleepy-gogo/SrtoGoge/assets/62667318/ee44b8b9-8d75-41e0-a788-07afe0fd76bd" width="38px" alt="🎉"></h1>
 
 <p align="center">
-    <b>I'm Axel, an 18yo Self Taught developer<br>From Argentina!</b><br><br>
+    <b>I'm Axel, an 19yo Self Taught developer<br>From Argentina!</b><br><br>
     <img src="https://i.ibb.co/vcSWMcB/output-gif.gif">
     <br>
     <i>Generated with <a href="https://github.com/x0rzavi/github-readme-terminal">x0rzavi/github-readme-terminal</a> on Feb.12 2024</i>
