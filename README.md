@@ -1,11 +1,12 @@
 <h1 align="center">Heya! <img src="https://github.com/Sleepy-gogo/SrtoGoge/assets/62667318/ee44b8b9-8d75-41e0-a788-07afe0fd76bd" width="38px" alt="🎉"></h1>
-
 <p align="center">
-    <b>I'm Axel, an 19yo Self Taught developer<br>From Argentina!</b><br><br>
     <img src="https://i.ibb.co/vcSWMcB/output-gif.gif">
     <br>
-    <i>Generated with <a href="https://github.com/x0rzavi/github-readme-terminal">x0rzavi/github-readme-terminal</a> on Feb.12 2024</i>
-    <br><br>
+</p>
+
+<p align="center">
+    <b>I'm Axel, a 20yo Self Taught developer<br>From Argentina!</b><br><br>
+    <br>
     <a href="https://www.linkedin.com/in/cast-axel/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
@@ -30,16 +31,11 @@
 
 
 ### My Tools
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-### Currently Learning
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTMX](https://img.shields.io/badge/%3C/%3E%20htmx-3D72D7?style=for-the-badge&logo=mysl&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle-black?style=for-the-badge&logo=Drizzle&logoColor=%23C5F74F)
+![Posthog](https://img.shields.io/badge/Posthog-white?style=for-the-badge&logo=posthog&logoColor=%23000)
