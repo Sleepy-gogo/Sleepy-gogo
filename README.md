@@ -1,41 +1,44 @@
-<h1 align="center">Heya! <img src="https://github.com/Sleepy-gogo/SrtoGoge/assets/62667318/ee44b8b9-8d75-41e0-a788-07afe0fd76bd" width="38px" alt="🎉"></h1>
+<h1 align="center">
+  Hola! I’m Axel 👋
+</h1>
+
 <p align="center">
-    <img src="https://i.ibb.co/vcSWMcB/output-gif.gif">
-    <br>
+  <i>21 y/o full-stack developer</i> · 🇦🇷 Santiago del Estero<br>
+  I turn caffeine into beautiful sites.
 </p>
 
 <p align="center">
-    <b>I'm Axel, a 20yo Self Taught developer<br>From Argentina!</b><br><br>
-    <br>
-    <a href="https://www.linkedin.com/in/cast-axel/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://www.freecodecamp.org/Sleepy_gogo">
-        <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp">
-    </a>
-    <a href="https://www.sololearn.com/profile/20936454">
-        <img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" alt="SoloLearn">
-    </a>
-    <a href="https://codepen.io/Sleepy_gogo">
-        <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen">
-    </a><br><br>
+  <a href="https://linkedin.com/in/cast-axel">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.freecodecamp.org/Sleepy_gogo">
+    <img src="https://img.shields.io/badge/freeCodeCamp-27273D?style=flat-square&logo=freecodecamp&logoColor=white" alt="freeCodeCamp"/>
+  </a>
+  <a href="https://codepen.io/Sleepy_gogo">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=flat-square&logo=codepen&logoColor=white" alt="CodePen"/>
+  </a>
 </p>
 
-### Languages
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+---
 
+### 🛠️ Tech I vibe with
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=282c34)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-FBF0DF?style=flat-square&logo=bun&logoColor=14151A)
+![SQLite](https://img.shields.io/badge/SQLite-07405e?style=flat-square&logo=sqlite&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=000)
+![shadcn/ui Badge](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=flat)
 
-### My Tools
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle-black?style=for-the-badge&logo=Drizzle&logoColor=%23C5F74F)
-![Posthog](https://img.shields.io/badge/Posthog-white?style=for-the-badge&logo=posthog&logoColor=%23000)
+### 📈 GitHub stats
+<p align="center">
+  <img src="https://github-readme-stats-five-zeta-37.vercel.app/api?username=Sleepy-gogo&hide=stars&count_private=true&theme=radical" width="58%" />
+  <img src="https://github-readme-stats-five-zeta-37.vercel.app/api/top-langs/?username=Sleepy-gogo&layout=compact&theme=radical" width="40%" />
+</p>
+
+---
+
+<p align="center">
+  <i>Always happy to hear new ideas, drop me an email if you wanna chat</i>
+</p>
